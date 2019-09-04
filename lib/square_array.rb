@@ -5,5 +5,5 @@ i = 0
     new_array[i] = (array[i])**2
     i +=1
   end
-puts new_array
+p new_array
 end
